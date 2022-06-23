@@ -1,0 +1,68 @@
+{
+    "module": "B-OTH-420",
+    "project": "success",
+    "agent-image": "epitechcontent/epitest-docker:latest",
+    "build-commands": [],
+    "skills": [
+        {
+            "name": "01 - basic success",
+            "tests": [
+                {
+                    "name": "Test 01",
+                    "command": "echo -n ^OK",
+                    "expected": "^OK"
+                },
+                {
+                    "name": "Test 02",
+                    "command": "echo -n ^OK",
+                    "expected": "^OK"
+                },
+                {
+                    "name": "Test 03",
+                    "command": "echo -n ^OK",
+                    "expected": "^OK"
+                }
+            ]
+        },
+        {
+            "name": "02 - medium success",
+            "tests": [
+                {
+                    "name": "Test 01",
+                    "command": "echo -n ^OK",
+                    "expected": "^OK"
+                },
+                {
+                    "name": "Test 02",
+                    "command": "echo -n ^OK",
+                    "expected": "^OK"
+                },
+                {
+                    "name": "Test 03",
+                    "command": "echo -n ^OK",
+                    "expected": "^OK"
+                }
+            ]
+        },
+        {
+            "name": "03 - hard success",
+            "tests": [
+                {
+                    "name": "Test 01",
+                    "command": "echo -n ^OK",
+                    "expected": "^OK"
+                },
+                {
+                    "name": "Test 02",
+                    "command": "echo -n ^OK",
+                    "expected": "^OK"
+                },
+                {
+                    "name": "Test 03",
+                    "command": "echo -n ^OK",
+                    "expected": "^OK"
+                }
+            ]
+        }
+    ]
+}
