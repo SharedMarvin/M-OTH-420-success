@@ -2,6 +2,8 @@
     "module": "B-OTH-420",
     "project": "success",
     "agent-image": "epitechcontent/epitest-docker:latest",
+    "enable-coding-style": false,
+    "enable-coverage": false,
     "build-commands": [],
     "skills": [
         {
